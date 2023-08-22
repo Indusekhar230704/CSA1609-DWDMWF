@@ -1,0 +1,8 @@
+# Example numbers
+numbers <- c(2, 5, 1, 8, 4, 6)
+# Find and print numbers greater than 3 using if-else
+for (num in numbers) {
+  if (num > 3) {
+    print(num)
+  }
+}
